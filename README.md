@@ -1,5 +1,3 @@
-# Hi there, I'm Roy van der Loo 👋
-
-## 🚀 About Me
+# Hi Roy here 👋
 
 I'm a senior frontend developer working at **Pon Datalab**.
